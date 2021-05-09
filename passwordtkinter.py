@@ -32,9 +32,7 @@ for count in range(repeat):
 
         if section != (blocks - 1):
             password[count] += (separator)
-
-print(password)
-
+            
 # Tkinter stuff
 root = Tk()
 root.title("Password Generator")
