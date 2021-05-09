@@ -2,6 +2,6 @@
 
 A simple password generator made with Python
 
-**Goal:**
+**Goals:**
 - To make passwords similar to popular password generator
 - To use tkinter
