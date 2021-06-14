@@ -1,7 +1,6 @@
 # Password Generator
 
-**A simple password generator made with Python**
-
+**A simple password generator made with Python**\
 By default, creates 10 variations for preferences with chances of about 28% num, 36% lowercase, 36% uppercase
 
 <br/>
